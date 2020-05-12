@@ -3,7 +3,7 @@ SIMULADOR EQUILIBRIOS ECONOMICOS BASADO EN MATRIZ DE LEONTIEF
 https://bufus.shinyapps.io/simulador2/
 
 \ /_  ___   \ \
-/@ \/@  \   \
+\ /@ \ \/@  \ \   \ \
 \__/\___/   /
  \_\/______/
  /     /\\\\\ 
