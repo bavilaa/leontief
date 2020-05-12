@@ -1,17 +1,7 @@
 
----
-title: 'Explicacioi del Modelo'
-author: "Bruno Avila"
-date: "10/30/2019"
-output: 
-        html_document:
-                toc: yes
-                toc_float: yes
-                theme: cosmo
-                highlight: tango
----
 
-SIMULADOR EQUILIBRIOS ECONOMICOS BASADO EN MATRIZ DE LEONTIEF
+
+** SIMULADOR EQUILIBRIOS ECONOMICOS BASADO EN MATRIZ DE LEONTIEF
 
 https://bufus.shinyapps.io/simulador2/
 
