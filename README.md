@@ -1,6 +1,3 @@
-SIMULADOR EQUILIBRIOS ECONOMICOS BASADO EN MATRIZ DE LEONTIEF
-
-https://bufus.shinyapps.io/simulador2/
 
 ---
 title: 'Explicacioi del Modelo'
@@ -13,6 +10,10 @@ output:
                 theme: cosmo
                 highlight: tango
 ---
+
+SIMULADOR EQUILIBRIOS ECONOMICOS BASADO EN MATRIZ DE LEONTIEF
+
+https://bufus.shinyapps.io/simulador2/
 
 <p>
 El objetivo de esta aplicación es conocer los nuevos niveles de equilibrio de producción y empleo de la economía chilena frente a cambios en la demanda final asociados a una actividad productiva.Por ejemplo, se ha estimado que el próximo año China demandará un 10% más de cobre chileno debido a su plan de inversiones,para simular este efecto:
